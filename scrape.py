@@ -1,6 +1,5 @@
 import urllib2
 import re
-from mechanize import Browser
 import os
 import os.path
 
